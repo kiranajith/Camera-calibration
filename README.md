@@ -11,7 +11,7 @@ Ensure you have the required dependencies installed in your environment. Python 
 
 1. Clone this repository using the command: `git clone https://github.com/kiranajith/Camera-calibration-.git`
 2. Navigate to the directory: `cd YourRepositoryName`
-3. Run the Python scripts using the command: `python script_name.py`
+3. Run the Python scripts using the command: `python problemX.py`
 
 Ensure you include the correct relative path of the images and calibration text file.
 
