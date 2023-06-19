@@ -30,6 +30,3 @@ Python scripts for this problem:
 A detailed explanation of the steps involved is given in the report
 
 
-## Acknowledgments
-This project is a part of ENPM673 - Perception for Autonomous Robots at the University of Maryland, College Park.
-
